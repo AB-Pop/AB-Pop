@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andreea and I'm using this as my landing hub to host all my projects I've got!
-- 👀 I’m interested in Game Design, long youtube documentaries, doing artwork, and dinking around with HTML and CSS. I graduated from Sheridan College with a Game Design bachelors and have been working in the industry for 2 years.
-- 🌱 I’m currently learning VR development at Conestoga College!
+- 👀 I’m interested in Game Design, long youtube documentaries, doing artwork, and dinking around with HTML and CSS. I graduated from Sheridan College with a Game Design bachelors and have been working in the industry for ~4 years.
+- 🌱 I graduated with a post-grad in Virtual Reality Productions!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was born in Romania and still know my mother tongue very well!
 
